@@ -5,11 +5,13 @@
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-- [Customer Performance Report](#Customer-Performance-Report)
-- [Division Level Report](#Division-Level-Report)
-- [ Market Performance Vs Target](#Market-Performance-Vs-Target)
-- [Top 10 Products](#Top-10-Products)
-- [Top 5 and Bottom 5 Products](#Top-5-and-Bottom-5-Products)
+- [Profit and Loss by Year](#Profit-and-Loss-by-Year)
+- [Profit and Loss](#Profit-and-Loss)
+- [ Gross Margin Percentage by Quarters(Sub_Zone)
+](#Gross-Margin-Percentage-by-Quarters(Sub_Zone)
+)
+- [Profit and Loss By Month](#Profit-and-Loss-By-Month)
+
 
 ## Overview
 
@@ -27,24 +29,24 @@ Data cleaning: Checked for duplicate values and null values, errors, etc.
 
 Data modelling: Connected datasets using primary key and foreign key by using data modelling in power pivot.
 
-### Profit and Loss by Year:
+### Profit and Loss by Year
 
 [P&L(Year)](https://github.com/manishajadhav1004/Finance-Analytics/blob/main/P%26L(Year).pdf)
 
 In this sheet, various metrics such as Net Sales, Cost Of Goods Sold (COGS), Gross Margin, and Gross Margin Percentage (GM%) for the years 2019, 2020, and 2021 are presented. Additionally, the percentage increase/decrease of the year 2021 relative to 2020 is displayed.
-### Profit and Loss(First Page)
+### Profit and Loss
 [P&L for Markets](https://github.com/manishajadhav1004/Finance-Analytics/blob/main/P%26L_and%20GM%25_by_quarters.pdf)
 
 On first page Net Sales, Cost of Good Sold, Gross Margin, Gross Margin Percentage(GM%) according to financial year is displayed. We can filter region, Sub_zone and financial year.
 
 
-### Gross Margin Percentage by Quarters(Sub_Zone):
+### Gross Margin Percentage by Quarters(Sub_Zone)
 
 [GM% by Quarters(Sub_Zone)](https://github.com/manishajadhav1004/Finance-Analytics/blob/main/P%26L_and%20GM%25_by_quarters.pdf)
 
 On the second page, sub-zones' Gross Margin is presented according to quarter for the years 2019, 2020, and 2021.
 
-### Profit and Loss By Month:
+### Profit and Loss By Month
 
 [P&L(Month)](https://github.com/manishajadhav1004/Finance-Analytics/blob/main/p%26L(month).pdf)
 

@@ -7,7 +7,7 @@
 - [Getting Started](#getting-started)
 - [Profit and Loss by Year](#Profit-and-Loss-by-Year)
 - [Profit and Loss](#Profit-and-Loss)
-- [Gross Margin Percentage by Quarters(Sub_Zone)](#Gross-Margin-Percentage-by-Quarters(Sub_Zone))
+- [Gross Margin Percentage by Quarters for Sub_Zone](#Gross-Margin-Percentage-by-Quarters-for-Sub-Zone)
 - [Profit and Loss By Month](#Profit-and-Loss-By-Month)
 
 

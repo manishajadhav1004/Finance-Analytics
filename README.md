@@ -38,7 +38,7 @@ In this sheet, various metrics such as Net Sales, Cost Of Goods Sold (COGS), Gro
 On first page Net Sales, Cost of Good Sold, Gross Margin, Gross Margin Percentage(GM%) according to financial year is displayed. We can filter region, Sub_zone and financial year.
 
 
-### Gross Margin Percentage by Quarters(Sub_Zone)
+### Gross Margin Percentage by Quarters for Sub_Zone
 
 [GM% by Quarters(Sub_Zone)](https://github.com/manishajadhav1004/Finance-Analytics/blob/main/P%26L_and%20GM%25_by_quarters.pdf)
 
